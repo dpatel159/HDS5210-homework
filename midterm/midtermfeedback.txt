@@ -1,0 +1,2 @@
+Did not process patients or hospitals. instead made up his own data.
+Invalid risk calculation.
